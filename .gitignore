@@ -24,3 +24,4 @@ docker-compose.override.yml
 
 # Others
 *.egg-info/
+.DS_Store
